@@ -1,5 +1,8 @@
 #사전 자료형 첫 사용
 
+F_2n = (2*F_(n-1) + F_n)*F_n
+F_(2n-1) = (F_n)^2 + (F_(n-1))^2 
+
 num=int(input())
 mod=1000000007
 data=dict()
