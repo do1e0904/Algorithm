@@ -9,7 +9,6 @@ def cutPaper(left, right):
             print("NO")
             return
         paper = (middle + 1) * (n - middle + 1)
-        #print(left, right, middle, middle+1, n-middle+1, paper)
         if paper == k:
             print("YES")
         elif paper < k:
