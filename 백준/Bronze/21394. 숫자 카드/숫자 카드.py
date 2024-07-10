@@ -15,6 +15,4 @@ for _ in range(T):
     for i in range(len(num)%2, len(num), 2):
         answer.append(num[i])
 
-    for i in range(len(answer)):
-        print(answer[i], end=' ')
-    print()
+    print(*answer)
