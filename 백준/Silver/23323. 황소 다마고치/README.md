@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 111568 KB, 시간: 144 ms
+메모리: 111568 KB, 시간: 140 ms
 
 ### 분류
 
@@ -12,11 +12,11 @@
 
 ### 제출 일자
 
-2024년 9월 2일 13:21:50
+2024년 9월 2일 13:24:42
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src=""></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c1ba83ca-8e21-4fa4-b5b5-ceb5ebdf559d/-/preview/"></p>
 
 <p style="color: rgb(170, 170, 170); font-style: italic; text-align: center;">홍익대학교 캐릭터 '황소' - 출처 : 홍익대학교 홈페이지</p>
 
