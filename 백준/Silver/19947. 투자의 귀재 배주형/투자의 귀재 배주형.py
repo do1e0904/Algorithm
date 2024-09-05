@@ -1,13 +1,8 @@
-def f1(n, m):
-    if m == 0:
-        return n
-    return int(1.05*f1(n, m-1))
-
 H, Y = map(int, input().split())
 dp = [0] * 15
 dp[0] = H
 dp[1] = int(1.05 * H)
-dp[2] = f1(H, 2)
+dp[2] = int(1.05 * dp[1])
 dp[3] = int(1.2 * H)
 dp[4] = int(1.2 * dp[1])
 dp[5] = int(1.35 * H)
